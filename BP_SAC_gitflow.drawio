@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.8.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4" pages="4">
   <diagram id="0D8ftsyHvNtCDJ5dZ-QF" name="gitflow et pipeline">
-    <mxGraphModel dx="1638" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,8 +232,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QPobty-ga2-9RG2W2WC-50" value="Alternative : correction en branche hotfix ou release&lt;br&gt;le plus important est le respect du SEMVER avec l&#39;&lt;br&gt;incrément obligatoire du numéro de patch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Courier New;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="630" y="620" width="520" height="60" as="geometry" />
+        <mxCell id="8QPobty-ga2-9RG2W2WC-50" value="Alternative à proposer : correction en branche hotfix ou release&lt;br&gt;le plus important est le respect du SEMVER avec l&#39;&lt;br&gt;incrément obligatoire du numéro de patch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Courier New;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="570" y="615" width="640" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8QPobty-ga2-9RG2W2WC-51" value="master" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="120" height="20" as="geometry" />
