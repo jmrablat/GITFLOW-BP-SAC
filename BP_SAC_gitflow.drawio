@@ -330,15 +330,6 @@
         <mxCell id="LTKut7V-_Ed-DEDV6GJS-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LTKut7V-_Ed-DEDV6GJS-1">
           <mxGeometry x="185" y="215" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LTKut7V-_Ed-DEDV6GJS-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=none;endFill=0;strokeColor=default;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LTKut7V-_Ed-DEDV6GJS-1" source="LTKut7V-_Ed-DEDV6GJS-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="316" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="316" />
-            </Array>
-            <mxPoint x="196" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LTKut7V-_Ed-DEDV6GJS-37" value="Tag: 1.0.0" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontColor=#333333;" vertex="1" parent="LTKut7V-_Ed-DEDV6GJS-1">
           <mxGeometry x="165" y="40" width="70" height="20" as="geometry" />
         </mxCell>
