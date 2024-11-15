@@ -502,6 +502,9 @@
         <mxCell id="7-nf3pmaMLYLmOzuV4dX-21" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;x.x.x-patch-$(BuildId)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="LTKut7V-_Ed-DEDV6GJS-1">
           <mxGeometry x="717.5" y="591.59" width="110" height="21.5" as="geometry" />
         </mxCell>
+        <mxCell id="7-nf3pmaMLYLmOzuV4dX-33" value="Source :&amp;nbsp;&lt;a href=&quot;https://tfs.mycloud.intrabpce.fr/IBP-C3ULG-INDUS/C3ULG-Templates-Main/_git/Templates-Main&quot;&gt;Templates-Main - Repos (intrabpce.fr)&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LTKut7V-_Ed-DEDV6GJS-1">
+          <mxGeometry x="458.75" y="640" width="270" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
